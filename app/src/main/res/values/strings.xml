@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HyperCC</string>
+    <string name="service_desc">Pull down from the top edge to open HyperCC. Left side: notifications. Right side: quick settings. In two-panel mode, swipe left/right to switch panels.</string>
+</resources>

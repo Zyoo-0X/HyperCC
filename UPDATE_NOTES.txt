@@ -1,0 +1,10 @@
+HyperCC 2.6
+
+- Reworked the HyperOS preview to follow the live panel layout and saved tile order.
+- Matched media card, brightness slider and media-volume slider heights at 184dp; preview slider widths now match the live layout.
+- Preview media artwork and transport controls now use the same sizing and spacing as the live media card.
+- Wi-Fi main tile displays the connected SSID when Android permits access to it.
+- HyperOS tile taps continue to open HyperCC-owned details instead of stock Android Settings pages.
+- Full-screen HyperOS quick panel remains edge-to-edge with status/navigation insets and scrollable shortcuts.
+
+Wi-Fi notes: Android 10+ prevents ordinary apps from enabling or disabling Wi-Fi directly. HyperCC requires Shizuku shell access for direct in-panel Wi-Fi switching. Nearby scan results depend on Android Nearby Wi-Fi / Location permissions and system Location state.
